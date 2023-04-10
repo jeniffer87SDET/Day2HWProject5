@@ -10,6 +10,9 @@ public class Class5HW {
 		System.out.println(a * b);
 	}
 	
+	public void multiply3 (int a, int b) {
+		System.out.println(a * b);
+	}
 	
 
 }
